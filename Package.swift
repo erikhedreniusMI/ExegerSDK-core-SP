@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "PowerfoyleCore",
             url: "https://maven.exeger.com/repository/maven-releases/com/exeger/powerfoyle/core-xcframework/1.2.4/core-xcframework-1.2.4.zip",
-            checksum: "c5d6ffbf6be0f393880d496083dd3a5bfc639dda111e04fb7ebb1ade7c079f94"
+            checksum: "c1626c039bc0fa834bc2154e7c2d3c2153cf0e330808d0415c9e69d2e39b512c"
         ),
     ]
 )
